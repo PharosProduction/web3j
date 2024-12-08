@@ -653,3 +653,6 @@ Thanks and credits
 - `bitcoinj <https://bitcoinj.github.io/>`_ for the reference Elliptic Curve crypto implementation
 - Everyone involved in the Ethereum project and its surrounding ecosystem
 - And of course the users of the library, who've provided valuable input & feedback
+
+By [Dmytro Nasyrov, Founder, CTO at Pharos Production Inc.](https://www.linkedin.com/in/dmytronasyrov/)
+And [Pharos Production Inc. - Web3, blockchain, fintech, defi software development services](https://pharosproduction.com)
